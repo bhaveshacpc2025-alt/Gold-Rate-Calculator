@@ -1,1 +1,2 @@
-# Gold-Rate-Calculator
+This calculator help to calculate price of your gold ornament you needed to
+enter rate of 22k or 24k gold price at this time and enter making_charge and also weight of gold ornament you will get two value 1.your rate constant when you multiply this constant with any weight you will got directly price and 2.your ornament price i devlop this calculator for beginner jeweler who have not any idea to calculate rate #Gold-Rate-Calculator#
